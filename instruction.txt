@@ -1,0 +1,1 @@
+for running app , use npm run dev , because we use concurrently module to run backend terminal and frontend terminal by one command
